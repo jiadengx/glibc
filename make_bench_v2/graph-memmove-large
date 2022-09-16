@@ -1,0 +1,70 @@
+Function: memmove
+Variant: large
+                                    memmove
+========================================================================================================================
+    length=4103, align1=0, align2=64:        22.94	
+     length=4111, align1=0, align2=3:        23.88	
+     length=4127, align1=3, align2=0:        24.38	
+     length=4159, align1=3, align2=7:        24.00	
+     length=4223, align1=9, align2=5:        24.62	
+    length=8199, align1=0, align2=64:        42.06	
+     length=8207, align1=0, align2=3:        46.62	
+     length=8223, align1=3, align2=0:        46.81	
+     length=8255, align1=3, align2=7:        46.88	
+     length=8319, align1=9, align2=5:        47.44	
+   length=16391, align1=0, align2=64:        83.88	
+    length=16399, align1=0, align2=3:        93.44	
+    length=16415, align1=3, align2=0:        93.69	
+    length=16447, align1=3, align2=7:        93.75	
+    length=16511, align1=9, align2=5:        93.88	
+   length=32775, align1=0, align2=64:       166.19	
+    length=32783, align1=0, align2=3:       185.62	
+    length=32799, align1=3, align2=0:       186.19	
+    length=32831, align1=3, align2=7:       186.00	
+    length=32895, align1=9, align2=5:       186.12	
+   length=65543, align1=0, align2=64:       333.06	
+    length=65551, align1=0, align2=3:       371.69	
+    length=65567, align1=3, align2=0:       373.69	
+    length=65599, align1=3, align2=7:       372.31	
+    length=65663, align1=9, align2=5:       374.75	
+  length=131079, align1=0, align2=64:       818.56	
+   length=131087, align1=0, align2=3:       898.44	
+   length=131103, align1=3, align2=0:       902.38	
+   length=131135, align1=3, align2=7:       898.81	
+   length=131199, align1=9, align2=5:       902.81	
+  length=262151, align1=0, align2=64:      1638.81	
+   length=262159, align1=0, align2=3:      1799.69	
+   length=262175, align1=3, align2=0:      1839.31	
+   length=262207, align1=3, align2=7:      1800.19	
+   length=262271, align1=9, align2=5:      1804.00	
+  length=524295, align1=0, align2=64:      3308.12	
+   length=524303, align1=0, align2=3:      3609.88	
+   length=524319, align1=3, align2=0:      3654.12	
+   length=524351, align1=3, align2=7:      3618.44	
+   length=524415, align1=9, align2=5:      3619.50	
+ length=1048583, align1=0, align2=64:      6713.00	
+  length=1048591, align1=0, align2=3:      7223.56	
+  length=1048607, align1=3, align2=0:      7265.38	
+  length=1048639, align1=3, align2=7:      7240.12	
+  length=1048703, align1=9, align2=5:      7273.62	
+ length=2097159, align1=0, align2=64:     13269.30	
+  length=2097167, align1=0, align2=3:     14481.70	
+  length=2097183, align1=3, align2=0:     14491.80	
+  length=2097215, align1=3, align2=7:     14522.20	
+  length=2097279, align1=9, align2=5:     14475.80	
+ length=4194311, align1=0, align2=64:     26441.50	
+  length=4194319, align1=0, align2=3:     28953.80	
+  length=4194335, align1=3, align2=0:     28899.30	
+  length=4194367, align1=3, align2=7:     29040.60	
+  length=4194431, align1=9, align2=5:     28921.40	
+ length=8388615, align1=0, align2=64:     56550.40	
+  length=8388623, align1=0, align2=3:     61519.40	
+  length=8388639, align1=3, align2=0:     61439.10	
+  length=8388671, align1=3, align2=7:     61675.20	
+  length=8388735, align1=9, align2=5:     61599.60	
+length=16777223, align1=0, align2=64:    173276.00	
+ length=16777231, align1=0, align2=3:    178338.00	
+ length=16777247, align1=3, align2=0:    178464.00	
+ length=16777279, align1=3, align2=7:    177476.00	
+ length=16777343, align1=9, align2=5:    178723.00	
+Generating graph for memmove, variant 'large'
